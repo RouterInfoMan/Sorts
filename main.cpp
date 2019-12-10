@@ -1,6 +1,3 @@
-/// Hey cunt who is reading this shit code
-/// go watch pyrocynical or do something else
-/// or you should be prepared for some brain and eye torture
 #define M_PI 3.14159265358979323846
 #include <cmath>
 #include <SFML/Graphics.hpp>
